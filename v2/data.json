@@ -1,0 +1,14 @@
+[
+  {
+    "class_name": "友情链接",
+    "class_desc": "那些人，那些事。",
+    "link_list": [
+      {
+        "name": "Absinthe",
+        "link": "https://www.absinthe.love/",
+        "avatar": "https://unpkg.com/private-source@1.0.13/absinthe-blog/images/site/avatar.jpeg",
+        "descr": "苦艾酒的博客"
+      }
+    ]
+  }
+]
